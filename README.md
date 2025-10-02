@@ -7,4 +7,4 @@ FUTBIN screenshots directly in Telegram
 Automatic closing of cookie banner
 ‘Card + price’ cropping
 Fast ‘long-lived’ browser (Chrome WebDriver reuse)
-Flexible settings from the GUI and config_user.json
+Flexible settings from the GUI and config_user.jsonn
